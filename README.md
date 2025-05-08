@@ -141,23 +141,44 @@ Me chamo Vitor Gabriel, sou natural de Maceió, Alagoas. Minha jornada com a tec
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 🤖 Linguagens, Tecnologias & Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vitorgabrielfrs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      style="margin-top: 30px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgabrielfrs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<table>
+  <tr>
+    <td valign="top" style="width: 50%;">
+      
+      <!-- Tecnologias -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" title="HTML"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" title="CSS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" title="JavaScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px" title="TypeScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px" title="React"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30px" title="Next.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30px" title="Bootstrap"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30px" title="Tailwind"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="30px" title="SASS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30px" title="PHP"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="30px" title="Laravel"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="30px" title="JQuery"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px" title="Git"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px" title="Python"/>
+      
+    </td>
+    
+    <td valign="top" style="width: 50%;">
+      
+      <!-- Estatísticas -->
+      <img 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=vitorgabrielfrs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      />
+      <br/>
+      <img 
+        height="200" 
+        style="margin-top: 10px;" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgabrielfrs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+      
+    </td>
+  </tr>
+</table>
