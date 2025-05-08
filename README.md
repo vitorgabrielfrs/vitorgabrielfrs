@@ -156,7 +156,7 @@ Me chamo Vitor Gabriel, sou natural de Maceió, Alagoas. Minha jornada com a tec
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      margin-top='30'
+      style="margin-top: 30px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgabrielfrs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
