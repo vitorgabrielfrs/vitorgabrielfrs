@@ -140,6 +140,7 @@ Me chamo Vitor Gabriel, sou natural de Maceió, Alagoas. Minha jornada com a tec
 
 <br/>
 <br/>
+
 ### 📊 Estatísticas
 
 <p>
