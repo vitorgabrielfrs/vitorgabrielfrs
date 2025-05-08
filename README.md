@@ -5,18 +5,18 @@
 Me chamo Vitor Gabriel, sou natural de Maceió, Alagoas. Minha jornada com a tecnologia começou cedo, mas foi em 2019 que iniciei meus estudos em programação, ao realizar um curso de Lógica e Linguagem de Programação pelo IFAL. Concluí o ensino médio integrado ao curso técnico em Estradas, também pelo IFAL. Atualmente, estou em transição para a área de tecnologia e curso Informática para Web no SENAI/AL. Compartilho minha trajetória e aprendizados na área por meio do meu Instagram pessoal.
 
 <p align="left">
-    <a href="https://github.com/vitorgabrielti?tab=repositories&sort=stargazers">
+    <a href="https://github.com/vitorgabrielfrs?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/vitorgabrielti?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/vitorgabrielfrs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/vitorgabrielti?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/vitorgabrielti?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/vitorgabrielfrs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -153,9 +153,10 @@ Me chamo Vitor Gabriel, sou natural de Maceió, Alagoas. Minha jornada com a tec
   />
 
 <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="200"
+      margin-top='30'
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgabrielfrs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
