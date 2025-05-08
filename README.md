@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End Jr`**
 
-Me chamo Vitor Gabriel, sou natural de Maceió, Alagoas. Minha jornada com a tecnologia começou cedo, mas foi em 2019 que iniciei meus estudos em programação, ao realizar um curso de Lógica e Linguagem de Programação pelo IFAL. Concluí o ensino médio integrado ao curso técnico em Estradas, também pelo IFAL. Atualmente, estou em transição para a área de tecnologia e curso Informática para Web no SENAI/AL. Compartilho minha trajetória e aprendizados na área por meio do meu Instagram pessoal.
+Me chamo Vitor Gabriel, sou natural de Maceió, Alagoas. Minha jornada com a tecnologia começou cedo, mas foi em 2019 que iniciei meus estudos em programação, ao realizar um curso de Lógica e Linguagem de Programação pelo IFAL. Concluí o ensino médio integrado ao curso técnico em Estradas, também pelo IFAL. Atualmente, estou em transição para a área de tecnologia e curso Informática para Web no SENAI/AL. Programar, jogar e ler sobre alguma área da filosofia para depois cair em crise existencial é o que eu mais gosto.
 
 <p align="left">
     <a href="https://github.com/vitorgabrielfrs?tab=repositories&sort=stargazers">
